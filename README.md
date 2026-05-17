@@ -1,148 +1,71 @@
-<h1 align="center">Hola, soy Kenny Pallchizaca</h1>
+<div align="center">
+  <h1>Hola, soy Alexis Guaman</h1>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Desarrollador_Full--Stack-0D1117?style=flat-square&logo=codeforces&logoColor=white" alt="Desarrollador">
+    <img src="https://img.shields.io/badge/Apasionado_por_la_tecnología-0D1117?style=flat-square&logo=rocket&logoColor=white" alt="Tecnología">
+    <img src="https://img.shields.io/badge/Siempre_aprendiendo-0D1117?style=flat-square&logo=googlescholar&logoColor=white" alt="Aprendiendo">
+  </p>
 
-<h3 align="center">
-Desarrollador en formación | Apasionado por la tecnología, el desarrollo web y la creación de soluciones digitales
-</h3>
+  <br>
 
-<p align="center">
-  <a href="https://github.com/kennypallchizaca-coder">
-    <img src="https://komarev.com/ghpvc/?username=kennypallchizaca-coder&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
-  </a>
-</p>
+  <img src="https://media1.tenor.com/m/gcvAM6ZQlrgAAAAd/cat-computer.gif" width="280" alt="Cat coding gif">
+</div>
 
----
+<br>
 
-## Sobre mí
+<img src="https://img.shields.io/badge/Sobre_mí-1F2428?style=for-the-badge&logo=github&logoColor=white" alt="Sobre mí" />
 
-Soy un desarrollador enfocado en aprender, construir y mejorar constantemente mis habilidades en programación.  
-Me interesa crear proyectos funcionales, bien organizados y con una estructura profesional.
+Soy un desarrollador con interés en crear soluciones digitales, aprender nuevas tecnologías y mejorar constantemente mis habilidades en programación.
 
-Actualmente estoy fortaleciendo mis conocimientos en desarrollo web, programación, control de versiones y buenas prácticas de desarrollo.
+Me gusta trabajar en proyectos que mezclen creatividad, lógica y utilidad real. Actualmente estoy fortaleciendo mis conocimientos en desarrollo web, programación y herramientas modernas de software.
 
----
+<br>
 
-## Objetivos profesionales
+<img src="https://img.shields.io/badge/Tecnologías_y_herramientas-1F2428?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Tecnologías" />
 
-- Desarrollar proyectos web modernos y funcionales.
-- Mejorar mis habilidades en programación frontend y backend.
-- Aprender nuevas tecnologías y herramientas de desarrollo.
-- Crear soluciones digitales útiles y bien estructuradas.
-- Construir un portafolio sólido como desarrollador.
+### Stack Principal
 
----
+<div align="center">
+  <br>
+  <img src="https://skillicons.dev/icons?i=spring,nestjs,react,python,ts,html,css,git,github" alt="Mis Skills" />
+</div>
 
-## Tecnologías y herramientas
+<br>
 
-### Lenguajes de programación
+### Nuevas Tecnologías & Herramientas
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+<div align="center">
+  <br>
 
-### Desarrollo web
+  <img src="https://img.shields.io/badge/Google-Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+  <img src="https://img.shields.io/badge/OpenAI-Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/GitHub-Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 
-<p>
-  <img src="https://img.shields.io/badge/Responsive%20Design-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-20232A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Development-0A66C2?style=for-the-badge" />
-</p>
+</div>
 
-### Herramientas
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/En_qué_estoy_trabajando-1F2428?style=for-the-badge&logo=opslevel&logoColor=white" alt="Proyectos" />
 
-### Sistemas operativos
+- Implementando soluciones con mi stack core: Spring, NestJS, React y TypeScript.
+- Integrando y explorando nuevas tecnologías como Codex.
+- Creando proyectos para mi portafolio.
+- Aprendiendo buenas prácticas de desarrollo.
 
-<p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<br>
 
----
+<img src="https://img.shields.io/badge/Lenguajes_más_usados-1F2428?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Lenguajes" />
 
-## Áreas de interés
+<div align="center">
+  <br>
 
-- Desarrollo web frontend
-- Programación con Python
-- Diseño de interfaces web
-- Automatización básica
-- Control de versiones con Git y GitHub
-- Creación de proyectos personales
-- Aprendizaje continuo en tecnología
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
 
----
-
-## Proyectos destacados
-
-Actualmente estoy trabajando en mejorar mi portafolio con proyectos prácticos relacionados con desarrollo web y programación.
-
-Algunos tipos de proyectos que me interesa desarrollar:
-
-- Sitios web personales
-- Landing pages
-- Aplicaciones web simples
-- Proyectos con HTML, CSS y JavaScript
-- Scripts básicos con Python
-- Interfaces responsivas
-
----
-
-## Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kennypallchizaca-coder&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kennypallchizaca-coder&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennypallchizaca-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
----
-
-## Mi forma de trabajar
-
-Me gusta mantener una estructura clara en mis proyectos, escribir código ordenado y aprender de cada error.  
-Considero que la práctica constante es clave para crecer como desarrollador.
-
-Busco mejorar en:
-
-- Organización del código
-- Buenas prácticas de programación
-- Diseño responsive
-- Documentación de proyectos
-- Uso correcto de Git y GitHub
-- Resolución de problemas
-
----
-
-## Contacto
-
-<p align="center">
-  <a href="mailto:pallchizacaalexis@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/kennypallchizaca-coder">
-    <img src="https://img.shields.io/badge/GitHub-kennypallchizaca--coder-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  Gracias por visitar mi perfil
-</p>
-
-<p align="center">
-  <strong>Siempre aprendiendo, siempre creando.</strong>
-</p>
+</div>
