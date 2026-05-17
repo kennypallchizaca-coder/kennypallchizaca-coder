@@ -4,6 +4,12 @@
 **kennypallchizaca-coder/kennypallchizaca-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+flowchart TB
+ A>"Computer"]  
+ B[("Programs")] 
+ C[("Tools")]
+ A --> B
+ A --> C
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
