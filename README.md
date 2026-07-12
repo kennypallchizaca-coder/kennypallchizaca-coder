@@ -45,16 +45,15 @@
         <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
         <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
         <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-        <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-000000?style=for-the-badge&logoColor=white" alt="Model Context Protocol" />
         <br><br>
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" alt="MCP" />
       </p>
     </td>
   </tr>
 </table>
 
 ---
-
 <div align="center">
   <h3>Lenguajes</h3>
 
